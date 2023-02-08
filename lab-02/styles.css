@@ -1,0 +1,14 @@
+body { background: grey; }
+
+
+nav {
+    flex-direction: column;
+    background-color: yellow;
+  }
+
+  nav a {
+    background-color: blueviolet;
+    color: green;
+    padding: orange;
+    margin: purple;
+  }
